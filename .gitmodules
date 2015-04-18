@@ -1,0 +1,6 @@
+[submodule "lib/sprintf.js"]
+	path = lib/sprintf.js
+	url = https://github.com/alexei/sprintf.js
+[submodule "lib/rot.js"]
+	path = lib/rot.js
+	url = https://github.com/ondras/rot.js.git
