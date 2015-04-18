@@ -1,4 +1,3 @@
 # boardgame_tester.js
 
-Test local commit
-Test remote commit
+Simple js testing fremework for boardgame development.
